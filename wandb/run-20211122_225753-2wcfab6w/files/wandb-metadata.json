@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.8",
+    "heartbeatAt": "2021-11-22T14:57:55.980853",
+    "startedAt": "2021-11-22T14:57:53.314101",
+    "docker": null,
+    "gpu": "GeForce GTX 1050 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "E:/yolov5-master-TestTest/train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-BGDU79R",
+    "username": "administered",
+    "executable": "D:\\APP\\Anaconda3\\envs\\YOLOv5\\python.exe"
+}
