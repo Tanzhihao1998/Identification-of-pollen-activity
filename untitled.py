@@ -274,3 +274,4 @@ class Ui_MainWindow(object):
 
     def tishi(self):
         self.textEdit.setText("每张图片检测大约需要2s，请耐心等待")
+        self.textEdit.append(self.filePath)
