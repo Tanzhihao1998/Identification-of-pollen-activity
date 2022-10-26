@@ -8,7 +8,8 @@ Run the platform / operating system: windows 10
 2. The picture format supports TIF, JPG, and PNG formats. Note that the folder path should not contain Chinese characters and no other types of files than pictures in the folder. When selecting a folder and click OK, click Botton1 Start Detection
 3. When click on Botton1 "start detection" will take up a lot of GPU resources, try not to do other operations on the computer, prevent software crash detection data loss, etc., after detection, the detection results will be displayed in the text box, the output content including the image name, image path and pictures belong to the details of the "live" and "die" labels of pollen quantity.
 4. Click on Botton3, "Exit the program", and the program closes.
-                        ----------------------------------------requirements----------------------------------------
+                       
+                       ----------------------------------------requirements----------------------------------------
 
 Cython
 matplotlib>=3.2.2
@@ -21,5 +22,6 @@ tensorboard>=2.2
 torch>=1.7.0
 torchvision>=0.8.1
 tqdm>=4.41.0
-                     ----------------------------------------how to start----------------------------------------
+                    
+                    ----------------------------------------how to start----------------------------------------
 python app_ui.py
